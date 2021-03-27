@@ -1,0 +1,15 @@
+{
+  "name": "NodeJS-Perofessional-README-Generator",
+  "version": "1.0.0",
+  "description": "A Professional README generator with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jamly Miller",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
