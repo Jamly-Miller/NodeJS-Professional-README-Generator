@@ -1,3 +1,4 @@
+console.log("hello");
 // array of questions for user
 const questions = [
 
