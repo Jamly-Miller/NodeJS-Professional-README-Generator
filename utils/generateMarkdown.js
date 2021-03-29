@@ -11,12 +11,13 @@ function generateMarkdown(res) {
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
-  3. [Contributing](#contributing)
-  4. [Tests](#tests)
-  5. [Fun](#fun)
-  6. [Challenges](#challenges)
+  3. [Fun](#fun)
+  4. [Challenges](#challenges)
+  5. [Code Screenshot](#screenshot)
+  6. [Tests](#tests)
   7. [Future Developments](#FutureDevelopments)
-  8. [Questions](#questions)
+  8. [Contributing](#contributing)
+  9. [Questions](#questions)
     
   ## **Installation** 
   ${res.install}
@@ -30,18 +31,20 @@ function generateMarkdown(res) {
   ## **Challenges** 
   ${res.challenges}
 
+  ## **Screenshot** 
+  ![Code Screenshot](${res.screenshot})
+
+  ## **Test it** 
+  Run this appliation by using the following command:
+  \`\`\`
+  ${res.test}
+  \`\`\`
+
   ## **FutureDevelopment** 
   ${res.FutureDevelopment}
 
   ## **Contributing** 
   ${res.contribute}
-
-  ## **Test it** 
-
-  Run this appliation by using the following command:
-  \`\`\`
-  ${res.test}
-  \`\`\`
     
   ## Questions 
 

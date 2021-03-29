@@ -60,6 +60,11 @@ function init() {
               name: "challanges",
           },
           {
+            type: "input",
+            message: "Do you have a screenshot of code for this project? Enter the path below.",
+            name: "screenshot",
+        },
+          {
               type: "input",
               message: "What are the future development plans for this project?",
               name: "FutureDevelopment",
