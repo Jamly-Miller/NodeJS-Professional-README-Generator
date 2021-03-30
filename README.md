@@ -39,6 +39,7 @@ THEN a high-quality, professional README.md is generated with the title of my pr
 ## **Installation**
 
 Node.js : https://nodejs.org/en/
+
 Init and install npm : https://www.npmjs.com/get-npm
 
 
@@ -85,6 +86,7 @@ Video walkthrough :
 If you have any further questions, please contact me:
 
 GitHub:https://github.com/Jamly-Miller
+
 LinkedIn: https://www.linkedin.com/in/jamly-miller-125307200/
 
 
