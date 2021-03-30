@@ -73,7 +73,7 @@ First time playing wih NodeJS, still a little confused, I definitely need to pra
 
 ![index.js](./utils/indexJS.PNG)
 ![index2.js](./utils/indexJS2.PNG)
-![generateMarkdown.js](./utils/generateMarkdownJS.PNG)
+![generateMarkdown.js](./utils/generateMarkdownJS.png)
 
 ## Finished Product
 
