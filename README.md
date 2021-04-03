@@ -25,6 +25,7 @@ AS A developer， I want a README generator so that I can quickly create a profe
 * [Code Screenshot](#screenshot)
 * [Finished Product](#finished-product)
 * [Questions](#questions)
+* [Learn More](#learn-more)
 
 
 ## Usage
